@@ -1,0 +1,1 @@
+# the_singleton_pattern
